@@ -1,2 +1,1 @@
-# Zepp_API
-小米运动ZeppLife刷步数APl 
+因不可抗因素，本项目停止维护。
